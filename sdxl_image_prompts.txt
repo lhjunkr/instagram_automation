@@ -1,0 +1,30 @@
+ID: 2
+Category: 종합(KR)
+Title: 미 국방 “이란, ‘북한의 전략’ 따라 방어망 구축”…전쟁에 37조 썼다 - 한겨레
+Source: 한겨레
+Status: success
+SDXL Image Prompt:
+A symbolic nuclear mushroom cloud intertwined with a North Korean flag and an Iranian flag, a giant hand in a military glove crushing a pile of money, photojournalism, editorial photography, candid shot, shot on 35mm lens, 8k resolution, highly detailed, photorealistic, vertical portrait, main subject in upper half, dark negative space at bottom, soft black gradient at bottom edge, vignette, no text, no watermarks
+
+---
+
+ID: 11
+Category: 경제(KR)
+Title: [속보]삼성전자, 1분기 반도체 영업이익 53.7조...엔비디아 바짝 따라잡았다 - 조선일보
+Source: 조선일보
+Status: skipped_no_caption
+SDXL Image Prompt:
+
+
+---
+
+ID: 28
+Category: 경제(US)
+Title: Tech giants double down on AI as earnings reveal growth gains and rising costs - CoinDesk
+Source: CoinDesk
+Status: success
+SDXL Image Prompt:
+Giant glowing AI brain circuit, connected to global stock market, money flowing, symbolic representation of big tech investment, photojournalism, editorial photography, candid shot, shot on 35mm lens, 8k resolution, highly detailed, photorealistic, vertical portrait, main subject in upper half, dark negative space at bottom, soft black gradient at bottom edge, vignette, no text, no watermarks
+
+---
+

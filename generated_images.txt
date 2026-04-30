@@ -1,0 +1,24 @@
+ID: 2
+Category: 종합(KR)
+Title: 미 국방 “이란, ‘북한의 전략’ 따라 방어망 구축”…전쟁에 37조 썼다 - 한겨레
+Status: success
+Image Path: generated_images/article_2.png
+
+---
+
+ID: 11
+Category: 경제(KR)
+Title: [속보]삼성전자, 1분기 반도체 영업이익 53.7조...엔비디아 바짝 따라잡았다 - 조선일보
+Status: skipped_no_sdxl_prompt
+Image Path: 
+
+---
+
+ID: 28
+Category: 경제(US)
+Title: Tech giants double down on AI as earnings reveal growth gains and rising costs - CoinDesk
+Status: success
+Image Path: generated_images/article_28.png
+
+---
+

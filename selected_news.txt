@@ -1,8 +1,33 @@
+ID: 2
 Category: 종합(KR)
-Selected ID: 5
+Title: 미 국방 “이란, ‘북한의 전략’ 따라 방어망 구축”…전쟁에 37조 썼다 - 한겨레
+Source: 한겨레
+Google Link: https://news.google.com/rss/articles/CBMiggFBVV95cUxQcUdRQ09yRWs2UFNjMlpSaXlNYTBLbWtES0puMEtjamVkOTZWNmZMUkxEVFFDVlpDT01UYVNYNDA0WmszbURUZWpvZE4wUGxqNDhobnFUYUQ0dVZlb2ZCT2dwa1VlN0ZYaTB4T1NLZXhBVHpUTG9FUGFQME5JRnYtZlVB?oc=5
+Resolved Link: https://www.hani.co.kr/arti/international/international_general/1256558.html
+Status: success
+Instagram Caption Status: success
 
+---
+
+ID: 11
 Category: 경제(KR)
-Selected ID: 19
+Title: [속보]삼성전자, 1분기 반도체 영업이익 53.7조...엔비디아 바짝 따라잡았다 - 조선일보
+Source: 조선일보
+Google Link: https://news.google.com/rss/articles/CBMigwFBVV95cUxNclZDQnBFM3ljUjc2bnRWckRadERBN1N3Wkd1ZWtqVi1GSVg3ZG01ekx1LWtoM2RrdmFTNnBrbXM0TGNSWVE4WGt0SllDTjFsMXhFelJxODNKNlFSaWttLVhsbUpwUW81TkpwSzJ0bnlERmJXc2Jnam5HZVdwTG5yR2E0QQ?oc=5
+Resolved Link: https://www.chosun.com/economy/tech_it/2026/04/30/Y6R5KMOMMFDSLMVR7EYDSWO4NY/
+Status: extract_failed
+Instagram Caption Status: skipped_no_body
 
+---
+
+ID: 28
 Category: 경제(US)
-Selected ID: 21
+Title: Tech giants double down on AI as earnings reveal growth gains and rising costs - CoinDesk
+Source: CoinDesk
+Google Link: https://news.google.com/rss/articles/CBMizwFBVV95cUxNSHVvVm5ZbHJxZ0NWbWFGM2ZjbFVVa3p4eElxdS1teWZpTEM1ZVpwZU1lUnhYdkRsZTEwbjBsa0lGRVdKRXBzSlZ6bV9Qa1JNMHFkaFhvd054T1NGaFpqa1RnUjdBVEkwLTZkR0ZkSHZKVGVlZEc1UTlKdUpKTTQ0S1dwdUs5NkU2RjBZblVhYnI0SzQzVFZ5ODZJczZxMHJRdExtOHAwQ0lrYjFUWi1oczAxT3l6ZmxkNU9feElZS0U5dnVFbW81MzZ4TWhhWnM?oc=5
+Resolved Link: https://www.coindesk.com/markets/2026/04/29/big-tech-s-multi-billion-dollar-ai-bets-are-still-on-track-as-mag-7-giants-report-earnings
+Status: success
+Instagram Caption Status: success
+
+---
+
