@@ -1,24 +1,30 @@
-ID: 2
+ID: 3
 Category: 종합(KR)
-Title: 미 국방 “이란, ‘북한의 전략’ 따라 방어망 구축”…전쟁에 37조 썼다 - 한겨레
+Title: 첫 법정공휴일 된 노동절…전국서 "노동 기본권 쟁취" - 연합뉴스
 Status: success
-Image Path: generated_images/article_2.png
+Image Path: generated_images/article_3.png
+Final Image Path: generated_images/article_3_final.png
+Overlay Status: success
 
 ---
 
 ID: 11
 Category: 경제(KR)
-Title: [속보]삼성전자, 1분기 반도체 영업이익 53.7조...엔비디아 바짝 따라잡았다 - 조선일보
-Status: skipped_no_sdxl_prompt
-Image Path: 
+Title: 4월 무역수지 238억달러 역대 최고…반도체가 또 견인 - 한겨레
+Status: success
+Image Path: generated_images/article_11.png
+Final Image Path: generated_images/article_11_final.png
+Overlay Status: success
 
 ---
 
 ID: 28
 Category: 경제(US)
-Title: Tech giants double down on AI as earnings reveal growth gains and rising costs - CoinDesk
+Title: AI outperforms doctors in Harvard trial of emergency triage diagnoses - The Guardian
 Status: success
 Image Path: generated_images/article_28.png
+Final Image Path: generated_images/article_28_final.png
+Overlay Status: success
 
 ---
 

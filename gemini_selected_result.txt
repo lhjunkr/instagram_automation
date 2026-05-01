@@ -1,8 +1,11 @@
 Category: 종합(KR)
-Selected ID: 2
+Primary ID: 3
+Backup ID: 6
 
 Category: 경제(KR)
-Selected ID: 11
+Primary ID: 11
+Backup ID: 18
 
 Category: 경제(US)
-Selected ID: 28
+Primary ID: 28
+Backup ID: 27

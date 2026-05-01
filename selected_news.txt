@@ -1,9 +1,9 @@
-ID: 2
+ID: 3
 Category: 종합(KR)
-Title: 미 국방 “이란, ‘북한의 전략’ 따라 방어망 구축”…전쟁에 37조 썼다 - 한겨레
-Source: 한겨레
-Google Link: https://news.google.com/rss/articles/CBMiggFBVV95cUxQcUdRQ09yRWs2UFNjMlpSaXlNYTBLbWtES0puMEtjamVkOTZWNmZMUkxEVFFDVlpDT01UYVNYNDA0WmszbURUZWpvZE4wUGxqNDhobnFUYUQ0dVZlb2ZCT2dwa1VlN0ZYaTB4T1NLZXhBVHpUTG9FUGFQME5JRnYtZlVB?oc=5
-Resolved Link: https://www.hani.co.kr/arti/international/international_general/1256558.html
+Title: 첫 법정공휴일 된 노동절…전국서 "노동 기본권 쟁취" - 연합뉴스
+Source: 연합뉴스
+Google Link: https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxOFBRS3VPZDVMLUlmLXJ6NnFSNlZHdGd3LVlwZzd6UVIwWU50Y1l3M1AzYUo0TndUdFVDNm15elZaTDd3bWZSYjZMVV9QM1ZWU3FKdW5DTVY3TmfSAWBBVV95cUxNc2VGcXJPZ1Rob2p6MmlGYVpCaUJCLUZaSFdadEdlVjA0cTg5WWJGQ3V2dTJSblc1blEwV3ViUFAwVVQ4NWZoUkwxbXBRbXY1R2hYdGdSbS1TVUtTdDR5Ym8?oc=5
+Resolved Link: https://www.yna.co.kr/view/AKR20260501048000057
 Status: success
 Instagram Caption Status: success
 
@@ -11,21 +11,21 @@ Instagram Caption Status: success
 
 ID: 11
 Category: 경제(KR)
-Title: [속보]삼성전자, 1분기 반도체 영업이익 53.7조...엔비디아 바짝 따라잡았다 - 조선일보
-Source: 조선일보
-Google Link: https://news.google.com/rss/articles/CBMigwFBVV95cUxNclZDQnBFM3ljUjc2bnRWckRadERBN1N3Wkd1ZWtqVi1GSVg3ZG01ekx1LWtoM2RrdmFTNnBrbXM0TGNSWVE4WGt0SllDTjFsMXhFelJxODNKNlFSaWttLVhsbUpwUW81TkpwSzJ0bnlERmJXc2Jnam5HZVdwTG5yR2E0QQ?oc=5
-Resolved Link: https://www.chosun.com/economy/tech_it/2026/04/30/Y6R5KMOMMFDSLMVR7EYDSWO4NY/
-Status: extract_failed
-Instagram Caption Status: skipped_no_body
+Title: 4월 무역수지 238억달러 역대 최고…반도체가 또 견인 - 한겨레
+Source: 한겨레
+Google Link: https://news.google.com/rss/articles/CBMiakFVX3lxTFAxNDIzbG1uRDV1ZmRJSm54aFExVVAzcWI5bHdMWG52M1hnLXRuRmVSVnlZRWN4SUZ0RW5xMTBTUmdFeG9xdm0xYlVTb3JYWnRKNnpDSUZrUjZQaE9teFZIQnBzeWNhUFlWc2c?oc=5
+Resolved Link: https://www.hani.co.kr/arti/economy/marketing/1256791.html
+Status: success
+Instagram Caption Status: success
 
 ---
 
 ID: 28
 Category: 경제(US)
-Title: Tech giants double down on AI as earnings reveal growth gains and rising costs - CoinDesk
-Source: CoinDesk
-Google Link: https://news.google.com/rss/articles/CBMizwFBVV95cUxNSHVvVm5ZbHJxZ0NWbWFGM2ZjbFVVa3p4eElxdS1teWZpTEM1ZVpwZU1lUnhYdkRsZTEwbjBsa0lGRVdKRXBzSlZ6bV9Qa1JNMHFkaFhvd054T1NGaFpqa1RnUjdBVEkwLTZkR0ZkSHZKVGVlZEc1UTlKdUpKTTQ0S1dwdUs5NkU2RjBZblVhYnI0SzQzVFZ5ODZJczZxMHJRdExtOHAwQ0lrYjFUWi1oczAxT3l6ZmxkNU9feElZS0U5dnVFbW81MzZ4TWhhWnM?oc=5
-Resolved Link: https://www.coindesk.com/markets/2026/04/29/big-tech-s-multi-billion-dollar-ai-bets-are-still-on-track-as-mag-7-giants-report-earnings
+Title: AI outperforms doctors in Harvard trial of emergency triage diagnoses - The Guardian
+Source: The Guardian
+Google Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxOOUpTYUFZS1BYS0NqUlVDeVVrcWFsbVhSaDJWUks3eFlfZW13NTdDMTQwb2JEeWg4VmVOckhuQzRJZ29TMW5CNlg0Mlk0WG1QdE9UUF9fZWQzcnNiVHlTMHdpa0dVZmpZTDJUZVkyZjlZOEt2VXBxSzVGelhTakFTN0RWRzljOHBqS3NESlBjTUFBWDJGbkwyTzczQXE4aGQtTnlQd2d1VDZZTlp4RW9aOHhmOThZeE53WmJzMA?oc=5
+Resolved Link: https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses
 Status: success
 Instagram Caption Status: success
 
